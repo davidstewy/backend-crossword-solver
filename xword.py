@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""Crossword Solver Program"""
+""" Crossword Solver Program """
 
 __author__ = "davidstewy"
 
